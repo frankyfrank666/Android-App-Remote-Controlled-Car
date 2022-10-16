@@ -1,0 +1,18 @@
+Music:
+
+	PTB3
+	TMP2_CH1
+	
+
+Sonic:
+	PTB0
+	trigger
+	TPM1_CH0
+	
+	PTB1
+	echo
+	TMP1_CH1
+
+Motor Drivers * 4 :
+	TPM0_C_0,1,2,3
+	
